@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoraiz-Shahid.
-- 👀 I’m interested in coding, and you could say i also have an intrest in making games.
-- 🌱 I’m currently learning data structure and algorithm.
+- 👀 I’m interested in coding, and you could say i also have intrest in content creating.
+- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
